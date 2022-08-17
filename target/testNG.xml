@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "Tiki Automation">
+
+    <test name="test-login-Object">
+        <classes>
+            <class name="login.LoginTestsByUsingObjectProvider"></class>
+        </classes>
+    </test>
+    <test name="test-login-Json">
+        <classes>
+            <class name="login.LoginTestByUsingJsonProvider"></class>
+        </classes>
+    </test>
+    <test name="test-login-Csv">
+        <classes>
+            <class name="login.LoginTestByUsingCsvProvider"></class>
+        </classes>
+    </test>
+</suite>
