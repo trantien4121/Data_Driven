@@ -1,0 +1,5 @@
+pages\SecureAreaPage.class
+utils\JsonReader.class
+utils\CsvReader.class
+utils\ExcelReader.class
+pages\LoginPage.class

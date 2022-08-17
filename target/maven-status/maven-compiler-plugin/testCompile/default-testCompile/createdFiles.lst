@@ -1,0 +1,5 @@
+login\LoginTestsByUsingObjectProvider.class
+login\LoginTestByUsingCsvProvider.class
+login\LoginTestsByUsingExcelProvider.class
+base\BaseTests.class
+login\LoginTestByUsingJsonProvider.class
